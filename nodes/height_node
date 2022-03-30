@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+# Imports main executable node
+from gpr20_height.height_node import HeightNode
+
+# Initializes node
+if __name__ == "__main__":
+  HeightNode()
+
